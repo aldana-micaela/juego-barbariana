@@ -35,7 +35,7 @@ public class Juego extends InterfaceJuego {
 
 	Juego() {
 		// Inicializa el objeto entorno
-		this.entorno = new Entorno(this, "Vergalet - Ledesma - Martinez - Filiberto - Grupo 02 - v1", 800, 600);
+		this.entorno = new Entorno(this, "Juego barbariana", 800, 600);
 		// Inicializar lo que haga falta para el juego
 		// ...
 		cont = 0;
